@@ -1,10 +1,5 @@
 ### Hi there 👨🏼‍💻
 
-- 🔭 I’m currently working on BTG Pactual as a Software Engineer
-- 💻 Web Developer
-- 📖 Currently learning React
-- ⚡ Fun fact: 
-
 <!--
 **phdaher/phdaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
